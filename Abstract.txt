@@ -1,0 +1,11 @@
+                                                                         ABSTRACT
+The COVID-19 pandemic has had a devastating effect on many people, creating severe anxiety, fear, and complicated feelings or emotions. After the initiation of vaccinations against coronavirus, people’s 
+feelings havebecome more diverse and complex. Our aim is to understand and unraveltheir sentiments in this research using machine learning techniques. Social media is currently the best way to express
+feelings and emotions, and with the help of Twitter, one can have a better idea of what is trendingand going on in people’s minds. Our motivation for this research was tounderstand the diverse sentiments
+of people regarding the vaccinationprocess. In this research, the timeline of the collected tweets was fromDecember 21 to July 21. The tweets contained information about the mostcommon vaccines
+available recently from across the world. The sentiments of people regarding vaccines of all sorts were assessed using the machine learning algorithms, Valence Aware Dictionary for sentiment Reasoner (VADER).
+Initializing the polarities of the obtained sentiments into three groups (positive, negative, and neutral) helped us visualize the overall scenario; our findings included 33.96% positive,
+17.55% negative, and 48.49% neutral responses. In addition, we included our analysis of the timeline of the tweets in this research, as sentiments fluctuated over time.
+A recurrent machine learning oriented architecture, including logisitic regression and bidirectional LSTM (Bi- LSTM), was used to assess the performance of the predictive models, with LSTM 
+achieving an accuracy of 90.59% and Bi-LSTM achieving 90.83%. Other performance metrics such as precision,, F1-score, and a confusion matrix were also used to validate our models and findings more
+effectively. This study improvesunderstanding of the public’s opinion onCOVID-19 vaccines and supports the aim of eradicating coronavirus from the world
